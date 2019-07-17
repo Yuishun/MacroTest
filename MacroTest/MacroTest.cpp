@@ -33,10 +33,10 @@ int main()
 
 #ifdef syui
 	std::cout << "Hello Syui!\n";
-#elif i
-	std::cout << "Hello !\n";
-#elif m
-	std::cout << "Hello !\n";
+#elif hikegami
+	std::cout << "Hello hiroya-ikegami!\n";
+#elif kmiyamoto
+	std::cout << "Hello keisuke unchi!\n";
 
 #else
 	std::cout << "Who?\n";
